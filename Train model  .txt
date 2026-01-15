@@ -1,0 +1,9 @@
+Train model : 
+9️⃣ Checklist nhanh khi vẽ mask cho ĐO
+
+✅ Vẽ vùng, không vẽ viền
+✅ Vẽ dày hơn biên thật
+✅ Mượt, không răng cưa
+✅ Cùng style cho mọi ảnh
+✅ Không ám ảnh pixel-perfect
+Mask dày 5–10% kích thước đối tượng

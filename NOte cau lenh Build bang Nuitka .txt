@@ -1,0 +1,9 @@
+nuitka run.py --standalone --follow-imports --include-package=flask --include-package=flask_socketio --include-package=engineio --include-package=gevent --include-package=geventwebsocket --include-data-dir=config=config --include-data-dir=model=model --include-data-dir=static=static --include-data-dir=templates=templates --include-data-file=Camera_25129678.pfs=Camera_25129678.pfs --windows-disable-console --windows-icon-from-ico=icon.ico --output-dir=dist
+
+
+nuitka run.py --standalone --follow-imports --include-package=flask --include-package=flask_socketio --include-package=engineio --include-package=gevent --include-package=geventwebsocket --include-data-dir=config=config --include-data-dir=model=model --include-data-dir=static=static --include-data-dir=templates=templates --include-data-file=Camera_25129678.pfs=Camera_25129678.pfs --windows-icon-from-ico=icon.ico --output-dir=dist
+
+nuitka run.py --standalone --follow-imports --include-package=flask --include-package=flask_socketio --include-package=engineio --include-package=gevent --include-package=geventwebsocket --include-package=ultralytics --include-package-data=ultralytics --include-data-dir=config=config --include-data-dir=model=model --include-data-dir=static=static --include-data-dir=templates=templates --include-data-file=Camera_25129678.pfs=Camera_25129678.pfs --windows-icon-from-ico=icon.ico --output-dir=dist
+
+
+chay nuitka dong tren
