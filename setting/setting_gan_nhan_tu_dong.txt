@@ -1,0 +1,2 @@
+folder_input C:\Users\anhuv\Desktop\tool\labels\images
+folder_output C:\Users\anhuv\Desktop\tool\labels\labels

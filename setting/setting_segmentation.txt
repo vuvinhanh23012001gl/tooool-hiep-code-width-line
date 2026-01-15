@@ -1,0 +1,4 @@
+folder_input C:\Disk D\Project\Python_Detect_Width_Line\tool_hiep\test\data
+forder_output C:\Disk D\Project\Python_Detect_Width_Line\tool_hiep\test\label
+resize 1
+anpha 3
